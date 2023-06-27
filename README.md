@@ -8,6 +8,10 @@ The Wardley Mapping Canvas helps newcomers with their first mapping experiences 
 
 # Usage
 
+## Image jpg
+
++ [The Wardley Mapping Canvas – Hired Thought](https://hiredthought.com/2018/10/13/the-wardley-mapping-canvas/)
+
 ## Office
 
 + [Office 365 Wardley Mapping Templates](https://endjin.com/blog/2020/03/office365-wardley-mapping-templates)
