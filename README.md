@@ -6,6 +6,10 @@ The Wardley Mapping Canvas helps newcomers with their first mapping experiences 
 
 # Usage
 
+## Office
+
++ [Office 365 Wardley Mapping Templates](https://endjin.com/blog/2020/03/office365-wardley-mapping-templates)
+
 ## Miro
 
 1. Open the template library in the Miroverse
